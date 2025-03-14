@@ -11,7 +11,7 @@ This is a Nix flake template for setting up an IBM ILOG CPLEX Optimization Studi
 
 1. Initialize a new project from this template:
    ```
-   nix flake init -t github:your-username/cplex-flake
+   nix flake init -t github:elenaferr0/cplex-flake
    ```
 
 2. Download your CPLEX installer from IBM:
