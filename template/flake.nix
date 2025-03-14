@@ -25,6 +25,7 @@
           
           buildInputs = [
             # Note: cplex will need to be configured with releasePath before it can be included here
+            cplex
             pkgs.curl
             pkgs.python3
             # Add any additional tools you might need
